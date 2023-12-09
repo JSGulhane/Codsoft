@@ -1,5 +1,5 @@
 # Codsoft
-Task 1: E-commerce Website Screenshots
+Task 3: E-commerce Website Screenshots
 
 Login page
 <img width="1044" alt="Screenshot 2023-12-09 at 3 26 57 PM" src="https://github.com/JSGulhane/Codsoft/assets/65853891/12090874-142f-44e3-b063-9db8d6d78a74">
